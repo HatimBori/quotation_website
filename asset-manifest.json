@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/quotation_website/static/js/main.085b0321.js",
+    "static/media/addtocart.jpg": "/quotation_website/static/media/addtocart.32116c67d24a7b896a67.jpg",
+    "static/media/Addproductsbg.jpg": "/quotation_website/static/media/Addproductsbg.8d7879e2be78495b88ef.jpg",
+    "static/media/customer.jpg": "/quotation_website/static/media/customer.2d91614bfea8b164e25c.jpg",
+    "static/media/Home1.jpg": "/quotation_website/static/media/Home1.5482f8764837d216d6e0.jpg",
+    "static/media/Untitled design.png": "/quotation_website/static/media/Untitled design.5482f8764837d216d6e0.png",
+    "static/media/SearchProduct.jpg": "/quotation_website/static/media/SearchProduct.88c9a791126cee603822.jpg",
+    "static/media/PBG3.jpg": "/quotation_website/static/media/PBG3.b0caa226296214ffb946.jpg",
+    "static/media/Logo1.jpg": "/quotation_website/static/media/Logo1.957cc84c709c7b7552ce.jpg",
+    "static/media/SPBG3.jpg": "/quotation_website/static/media/SPBG3.b29448483f356d5ed8b4.jpg",
+    "static/media/Addinformation.png": "/quotation_website/static/media/Addinformation.c035fe7267b4105ad30b.png",
+    "static/media/Marble2.jpg": "/quotation_website/static/media/Marble2.6c42cb980896435ab665.jpg",
+    "index.html": "/quotation_website/index.html",
+    "main.085b0321.js.map": "/quotation_website/static/js/main.085b0321.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.085b0321.js"
+  ]
+}
