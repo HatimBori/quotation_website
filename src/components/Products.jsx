@@ -391,7 +391,7 @@ export default function ProductsCard({ product }) {
                     variant="body2"
                     color="text.secondary"
                   >
-                    Name:-{product.name}
+                    {/* Name:-{product.name} */}
                   </Typography>
                   <Typography
                     style={{ textAlign: "left" }}
